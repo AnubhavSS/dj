@@ -143,7 +143,7 @@ const Dashboard = () => {
               gap: 10,
             }}
           >
-            <div style={{ display: "flex", flexDirection: "column" }}>
+            <div style={{ display: "flex", flexDirection: "column", marginBottom:20 }}>
               <input
                 id="category_7"
                 className={`card ${
@@ -161,7 +161,7 @@ const Dashboard = () => {
                 <p className="error">{">"}79</p>
               )}
             </div>
-            <div style={{ display: "flex", flexDirection: "column" }}>
+            <div style={{ display: "flex", flexDirection: "column",marginBottom:20 }}>
               <input
                 id="category_8"
                 className={`card ${
@@ -179,7 +179,7 @@ const Dashboard = () => {
                 <p className="error">{">"}59</p>
               )}
             </div>
-            <div style={{ display: "flex", flexDirection: "column" }}>
+            <div style={{ display: "flex", flexDirection: "column",marginBottom:20 }}>
               <input
                 id="category_9"
                 className={`card ${
@@ -197,7 +197,7 @@ const Dashboard = () => {
                 <p className="error">{">"}39</p>
               )}
             </div>
-            <div style={{ display: "flex", flexDirection: "column" }}>
+            <div style={{ display: "flex", flexDirection: "column",marginBottom:20 }}>
               <input
                 id="category_10"
                 className={`card ${
